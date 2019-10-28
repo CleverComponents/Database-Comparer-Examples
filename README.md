@@ -22,6 +22,7 @@ They are intended to demonstrate the usage of the [Database Comparer VCL](https:
 |[Execute Local SQL Script](./Delphi/LocalSQLScript)|Loads and executes LocalSQL (BDE) script for local databases (Paradox, dBASE). This demo is not available starting from RAD Studio XE7.|
 |[SQL Script Comparer](./Delphi/ScriptComparer)|Compares two database scripts and displays the resulting update script.|
 |[Table Data Comparer](./Delphi/TableDataComparer)|Compares and synchronizes data between two database tables. This demo is not available starting from RAD Studio XE7. Please check [Database Comparer (FireDAC)](./Delphi/DBComparerDemoFireDAC) and [Database Comparer (IB Express)](./Delphi/DBComparerDemoIBX) demos.|
+|[Data Comparer Custom SQL](./Delphi/DataComparerCustomSQL)|Shows how to compare and syncrhonize two Firebird DB tables using a user-defined SQL script to fetch records. The connection is implemented via the FireDAC library.|
 
 ## Database Comparer VCL Demos for C++Builder
 

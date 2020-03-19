@@ -6,10 +6,6 @@ These example projects are simple demos, and by no means complete applications.
 
 They are intended to demonstrate the usage of the [Database Comparer VCL](https://www.clevercomponents.com/products/dbcvcl/) components in your code.
 
-## Demo Databases
-
-[MASTER.ZIP](./SampleDB/MASTER.ZIP), [TARGET.ZIP](./SampleDB/TARGET.ZIP), [sample1.zip](./SampleDB/sample1.zip), [sample2.zip](./SampleDB/sample2.zip)
-
 ## Database Comparer VCL Demos for Delphi
 
 | Program Name | Description |

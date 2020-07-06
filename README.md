@@ -1,6 +1,6 @@
 # Database Comparer Examples
 
-<img align="left" src="https://www.clevercomponents.com/images/dbc71-splash.jpg"/>
+<img align="left" src="https://www.clevercomponents.com/images/dbc72-splash.jpg"/>
 
 These example projects are simple demos, and by no means complete applications.
 

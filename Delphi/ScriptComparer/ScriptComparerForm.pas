@@ -147,8 +147,7 @@ end;
 
 procedure TForm1.DBComparerBeforeExtract(Sender: TObject);
 begin
-  DBComparer.DatabaseType := GetDbType();
-  case DBComparer.DatabaseType of
+  case GetDbType() of
     dbInterBase: begin
       DBComparer.ExtractorMaster := IBScriptExtract;
       DBComparer.ExtractorTarget := IBScriptExtract;

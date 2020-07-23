@@ -626,10 +626,12 @@ object Form1: TForm1
     Top = 224
   end
   object DBStructure1: TDBStructure
+    IBServerOptions.SQLServerVersion = st_Firebird_30
     Left = 304
     Top = 304
   end
   object DBStructure2: TDBStructure
+    IBServerOptions.SQLServerVersion = st_Firebird_30
     Left = 304
     Top = 368
   end
@@ -652,11 +654,9 @@ object Form1: TForm1
     Top = 368
   end
   object DBComparer1: TDBComparer
-    DatabaseType = dbInterBase
     DBStructureMaster = DBStructure1
     DBStructureTarget = DBStructure2
     SQLExec = IBSQLExec
-    IBServerOptions.SQLServerVersion = st_Firebird_30
     OnProgressUpdate = ProgressUpdate
     OnLogNextLine = LogNextLine
     OnErrorMessage = LogNextLine

@@ -267,7 +267,6 @@ object Form1: TForm1
     Top = 72
   end
   object DBComparer: TDBComparer
-    DatabaseType = dbAbstract
     DBStructureMaster = DBStructureMaster
     DBStructureTarget = DBStructureTarget
     OnProgressUpdate = DBComparerProgressUpdate

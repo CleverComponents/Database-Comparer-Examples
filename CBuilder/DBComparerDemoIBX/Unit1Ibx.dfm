@@ -651,7 +651,6 @@ object Form1: TForm1
     Top = 368
   end
   object DBComparer1: TDBComparer
-    DatabaseType = dbInterBase
     DBStructureMaster = DBStructure1
     DBStructureTarget = DBStructure2
     SQLExec = IBSQLExec

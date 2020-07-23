@@ -306,8 +306,6 @@ object Form1: TForm1
     Height = 21
     Anchors = [akTop, akRight]
     Caption = 'Compare'
-    DoubleBuffered = True
-    ParentDoubleBuffered = False
     TabOrder = 16
     OnClick = BtnCompareClick
   end
@@ -318,8 +316,6 @@ object Form1: TForm1
     Height = 21
     Anchors = [akTop, akRight]
     Caption = 'Update'
-    DoubleBuffered = True
-    ParentDoubleBuffered = False
     TabOrder = 17
     OnClick = BtnUpdateClick
   end

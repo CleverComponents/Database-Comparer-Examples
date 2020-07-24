@@ -49,8 +49,7 @@ void __fastcall TForm1::BtnSelClick(TObject *Sender)
 
 void __fastcall TForm1::DBComparerBeforeExtract(TObject *Sender)
 {
-  DBComparer->DatabaseType = GetDbType();
-  switch (DBComparer->DatabaseType)
+  switch (GetDbType())
   {
     case dbInterBase:
       DBComparer->ExtractorMaster = IBScriptExtract;

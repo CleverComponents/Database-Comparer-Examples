@@ -1,6 +1,6 @@
 # Database Comparer Examples
 
-[DB Comparer Examples](dbc80-splash.jpg)
+![DB Comparer Examples](dbc80-splash.jpg)
 
 These example projects are simple demos, and by no means complete applications.
 

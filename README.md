@@ -1,13 +1,11 @@
 # Database Comparer Examples
 
-<img align="left" src="dbc80-splash.jpg"/>
+[DB Comparer Examples](dbc80-splash.jpg)
 
 These example projects are simple demos, and by no means complete applications.
 
 They are intended to demonstrate the usage of the [Database Comparer VCL](https://www.clevercomponents.com/products/dbcvcl/) components in your code.
-   
-   
-   
+
 ## Database Comparer VCL Demos for Delphi
 
 | Program Name | Description |

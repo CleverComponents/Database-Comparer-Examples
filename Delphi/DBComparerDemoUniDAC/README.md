@@ -4,8 +4,6 @@ This Delphi project connects to an IB database via the UniDAC library, compares,
 
 The project represents a mostly simple demos and by no means, a complete application. It's intended to demonstrate how to use the [DB Comparer](https://www.clevercomponents.com/products/dbcvcl/dbcomparer.asp) component in your Delphi application. Additionally, the program uses the [Table Data Comparer](https://www.clevercomponents.com/products/dbcvcl/tabledatacomparer.asp) component to synchronize table records between two different databases.   
    
-   
-   
 The connection to an Interbase / Firebird database is made using the [UniDAC](https://www.devart.com/unidac/) library.
 
 ![Screenshot](dbcomparer-unidac-fb.jpg)

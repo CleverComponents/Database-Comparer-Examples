@@ -2,6 +2,16 @@ object DataMd: TDataMd
   OldCreateOrder = False
   Height = 209
   Width = 288
+  object FDConnection1: TFDConnection
+    LoginPrompt = False
+    Left = 64
+    Top = 24
+  end
+  object FDConnection2: TFDConnection
+    LoginPrompt = False
+    Left = 64
+    Top = 80
+  end
   object DBCConnection1: TDBCConnectionFireDAC
     Database = FDConnection1
     OnBeforeConnect = DBCConnection1BeforeConnect
@@ -14,21 +24,13 @@ object DataMd: TDataMd
     Left = 144
     Top = 80
   end
-  object FDConnection1: TFDConnection
-    Left = 48
-    Top = 32
-  end
-  object FDConnection2: TFDConnection
-    Left = 48
-    Top = 88
-  end
   object FDPhysFBDriverLink1: TFDPhysFBDriverLink
-    Left = 48
-    Top = 144
+    Left = 64
+    Top = 128
   end
   object FDGUIxWaitCursor1: TFDGUIxWaitCursor
     Provider = 'Forms'
     Left = 144
-    Top = 144
+    Top = 128
   end
 end

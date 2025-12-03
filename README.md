@@ -1,10 +1,22 @@
 # Database Comparer Examples
 
-![DB Comparer Examples](dbc80-splash.jpg)
+<img align="left" src="dbc-splash.jpg" />  
 
-These example projects are simple demos, and by no means complete applications.
+These projects are simple demos rather than complete applications.  
 
-They are intended to demonstrate the usage of the [Database Comparer VCL](https://www.clevercomponents.com/products/dbcvcl/) components in your code.
+They illustrate how to use components from [Database Comparer VCL](https://www.clevercomponents.com/products/dbcvcl/) version 8.2 in your code.  
+
+Before you compile and run these demos please download and install the Database Comparer VCL 8.2 for your RAD Studio IDE using the official [Download Page](https://www.clevercomponents.com/downloads/dbc/)  
+
+For licensed downloads please submit the download / upgrade request to [Customer Portal](https://www.clevercomponents.com/portal/)  
+
+Explore the samples to get started quickly with Database Comparer VCL.
+
+## What's new
+
+- Added support for RAD Studio 13 Florence. Please use project files for Rad Studio 12 (..._12.dproj and ..._12.cbproj) to open and compile the demos.
+- Packages for the 64-bit version of RAD Studio IDE have been implemented.
+- Demo projects have been updated.
 
 ## Database Comparer VCL Demos for Delphi
 
